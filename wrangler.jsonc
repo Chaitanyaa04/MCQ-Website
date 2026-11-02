@@ -3,5 +3,5 @@
   "main": "src/worker.js",
   "compatibility_date": "2026-10-01",
   "assets": { "directory": "./public", "binding": "ASSETS", "run_worker_first": ["/api/*"] },
-  "d1_databases": [{ "binding": "DB", "database_name": "studyspace", "database_id": "PASTE-YOUR-DATABASE-ID-HERE" }]
+  "d1_databases": [{ "binding": "DB", "database_name": "studyspace", "database_id": "d0265367-aa5e-46eb-b75d-da3aa908b363" }]
 }
