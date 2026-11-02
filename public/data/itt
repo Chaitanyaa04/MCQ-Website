@@ -1,0 +1,5 @@
+[
+{"id":"S1","ch":"Sample","q":"Which Excel function returns the number of characters in a text string?","o":["LEN()","COUNT()","CHAR()","LENGTH()"],"a":0,"e":"LEN counts characters, including spaces."},
+{"id":"S2","ch":"Sample","q":"Which key combination selects everything in a Word document?","o":["Ctrl+B","Ctrl+A","Ctrl+E","Ctrl+K"],"a":1,"e":"Ctrl+A is Select All."},
+{"id":"S3","ch":"Sample","q":"What does SQL stand for?","o":["Simple Query Language","Sequential Query Language","Structured Query Language","Standard Query Language"],"a":2,"e":"SQL is Structured Query Language."}
+]
